@@ -13,7 +13,7 @@ Berapapun donasi kalian akan sangat berarti 👍
 𝐀𝐫𝐢𝐠𝐚𝐭𝐨𝐮!!!
 
 Contact person Owner:
-wa.me/6282154156241 (Owner)`
+https://wa.me/qr/V7EHCZWAGXILG1 (Owner)`
 let message = await prepareWAMessageMedia({ image: {url: 'https://i.postimg.cc/C1BfTNk2/6bfc0fa448e61d8f7fe5323fcfd28518.jpg' }}, { upload: conn.waUploadToServer })
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
